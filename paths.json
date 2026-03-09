@@ -1,8 +1,8 @@
 {
   "mappings": [
-    "/content/test/:/"
+    "/content/XSCTeamSite/:/"
   ],
   "includes": [
-    "/content/test/"
+    "/content/XSCTeamSite/"
   ]
 }
