@@ -1,5 +1,4 @@
 mountpoints:
   /:
-    url: https://author-p126422-e1237981.adobeaemcloud.com/bin/franklin.delivery/Remekie/XSCTeamSite/main
+    url: https://content.da.live/Remekie/XSCTeamSite/
     type: markup
-    suffix: .html
