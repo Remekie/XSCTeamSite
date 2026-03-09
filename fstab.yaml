@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: https://raw.githubusercontent.com/Remekie/XSCTeamSite/main/content
+    url: https://da.live/aemxsc/xscteamsite/
     type: markup
     suffix: .html
